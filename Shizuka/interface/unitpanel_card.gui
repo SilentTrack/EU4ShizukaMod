@@ -453,7 +453,7 @@ guiTypes = {
 			tooltipText =""
 			delayedTooltipText = ""
 			buttonFont = "vic_18"
-			shortcut = "w"
+			shortcut = "n"
 		}
 
 		iconType = {

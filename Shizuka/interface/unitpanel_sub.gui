@@ -408,7 +408,7 @@ guiTypes = {
 				delayedTooltipText = ""
 				buttonText = "NO_LEADER"
 				buttonFont = "vic_18"
-				shortcut ="w"
+				shortcut ="n"
 			}
 
 			guiButtonType = {
