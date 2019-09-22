@@ -378,7 +378,6 @@ guiTypes = {
 				position = { x = 32 y = -26 }
 				hint_tag = "hint_hre"
 				frame = 1
-				shortcut = "a"
 			}
 			
 			iconType =
@@ -546,7 +545,6 @@ guiTypes = {
 				delayedTooltipText = ""
 				buttonText = "RECALL"
 				buttonFont = "vic_18"
-				shortcut = "r"
 			}
 		}
 		
@@ -651,7 +649,6 @@ guiTypes = {
 				delayedTooltipText = ""
 				buttonText = "SEND"
 				buttonFont = "vic_18"
-				shortcut = "s"
 			}	
 			
 			guiButtonType = {

@@ -215,7 +215,7 @@ guiTypes = {
 			tooltip = ""
 			tooltipText =""
 			delayedTooltipText = ""
-			shortcut = "e"
+			shortcut = "j"
 		}
 		iconType = {
 			name ="army_drill_button_glow"
@@ -347,7 +347,7 @@ guiTypes = {
 			tooltip = ""
 			tooltipText =""
 			delayedTooltipText = ""
-			shortcut = "e"
+			shortcut = "h"
 		}
 			
 		iconType = {
@@ -462,7 +462,7 @@ guiTypes = {
 				Orientation = "UPPER_LEFT"
 			}
 			
-		# Ska länkas till naval
+	# Ska länkas till naval
 			iconType =
 			{
 				name ="ship_load_capacity_bg"

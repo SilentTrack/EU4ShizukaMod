@@ -885,13 +885,11 @@ guiTypes = {
 				name ="inc_autonomy_button"
 				quadTextureSprite = "GFX_inc_autonomy_button"
 				position = { x =82 y = 286 }
-				shortcut = "i"
 			}
 			guiButtonType = {
 				name ="dec_autonomy_button"
 				quadTextureSprite = "GFX_dec_autonomy_button"
 				position = { x =43 y = 286 }
-				shortcut = "o"
 			}
 
 
@@ -1165,7 +1163,6 @@ guiTypes = {
 				delayedTooltipText = ""
 				buttonFont = "vic_18"
 				Orientation = "UPPER_LEFT"
-				shortcut = "y"
 			}
 
 			guiButtonType =
@@ -1353,7 +1350,7 @@ guiTypes = {
 				name = "fort_maintenance_checkbox"
 				position = { x= 267 y= 407 }
 				quadTextureSprite = "GFX_maintenance_checkbox"
-				shortcut = "e"
+				shortcut = "h"
 			}
 
 
@@ -1558,7 +1555,6 @@ guiTypes = {
 				buttonFont = "vic_18"
 				buttonText = "NAME"
 				position = { x = 251 y = 551 }
-				shortcut = "t"
 			}
 
 

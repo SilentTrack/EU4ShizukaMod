@@ -50,7 +50,6 @@ guiTypes = {
 			position = { x= 378 y= 278}
 			quadTextureSprite ="GFX_select_mission_back_button"
 			buttonFont = "vic_18"
-			shortcut = "q"
 		}
 		
 		listboxType = {
