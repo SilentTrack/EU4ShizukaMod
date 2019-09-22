@@ -70,6 +70,7 @@ guiTypes = {
 			tooltipText =""
 			delayedTooltipText = ""
 			buttonFont = "vic_18"
+			shortcut = "q"
 		}		
 		
 		guiButtonType = {
@@ -196,7 +197,7 @@ guiTypes = {
 		guiButtonType = {
 			name = "enable_rebel_button"
 			position = { x=378 y=325}
-			quadTextureSprite ="GFX_unitpanel_button_hunt_rebels"
+			quadTextureSprite ="GFX_unitpanel_button_hunt_rebels"	
 			tooltip = ""
 			tooltipText =""
 			delayedTooltipText = ""
@@ -214,7 +215,7 @@ guiTypes = {
 			tooltip = ""
 			tooltipText =""
 			delayedTooltipText = ""
-			shortcut = "j"
+			shortcut = "e"
 		}
 		iconType = {
 			name ="army_drill_button_glow"
@@ -346,7 +347,7 @@ guiTypes = {
 			tooltip = ""
 			tooltipText =""
 			delayedTooltipText = ""
-			shortcut = "h"
+			shortcut = "e"
 		}
 			
 		iconType = {
