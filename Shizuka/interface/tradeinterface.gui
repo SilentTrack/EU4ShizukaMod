@@ -476,6 +476,7 @@ guiTypes = {
 			spacing = 0
 			scrollbartype = "standardlistbox_slider"
 			borderSize = {x = 0 y = 0}
+			shortcut = "q"
 		}
 	}
 	#### tradecomapny tradenode interface ####
@@ -950,6 +951,7 @@ guiTypes = {
 			spacing = 0
 			scrollbartype = "standardlistbox_slider"
 			borderSize = {x = 0 y = 0}
+			shortcut = "w"
 		}
 	}
 
