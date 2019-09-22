@@ -70,7 +70,6 @@ guiTypes = {
 			tooltipText =""
 			delayedTooltipText = ""
 			buttonFont = "vic_18"
-			shortcut = "q"
 		}		
 		
 		guiButtonType = {
@@ -197,7 +196,7 @@ guiTypes = {
 		guiButtonType = {
 			name = "enable_rebel_button"
 			position = { x=378 y=325}
-			quadTextureSprite ="GFX_unitpanel_button_hunt_rebels"	
+			quadTextureSprite ="GFX_unitpanel_button_hunt_rebels"
 			tooltip = ""
 			tooltipText =""
 			delayedTooltipText = ""
@@ -462,7 +461,7 @@ guiTypes = {
 				Orientation = "UPPER_LEFT"
 			}
 			
-	# Ska länkas till naval
+		# Ska länkas till naval
 			iconType =
 			{
 				name ="ship_load_capacity_bg"
