@@ -1,3 +1,3 @@
 name = "Shizuka's"
 path = "mod/Shizuka"
-supported_version="1.29.*.*"
+supported_version="1.30.*.*"
