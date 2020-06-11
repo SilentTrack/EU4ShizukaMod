@@ -378,7 +378,7 @@ guiTypes = {
 				position = { x = 32 y = -26 }
 				hint_tag = "hint_hre"
 				frame = 1
-				shortcut = "a"
+				shortcut = "d"
 			}
 			
 			iconType =
@@ -663,6 +663,7 @@ guiTypes = {
 				delayedTooltipText = ""
 				buttonText = "ABANDON_MERCHANT"
 				buttonFont = "vic_18"
+				shortcut = "a"
 			}	
 			
 			
@@ -816,6 +817,7 @@ guiTypes = {
 				quadTextureSprite = "GFX_button_straight_300_32"
 				buttonFont = "vic_18"
 				text = "SEND_COLONIST"	
+				shortcut = "s"
 			}
 
 			instantTextBoxType = {
