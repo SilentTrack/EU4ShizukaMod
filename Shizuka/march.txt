@@ -1,0 +1,165 @@
+# Siege ability
+add_country_modifier = {
+	name = offensive_modifier
+			duration = -1
+}
+add_country_modifier = {
+	name = inside_man
+	duration = -1
+}
+add_country_modifier = {
+	name = the_beating_of_the_drums
+	duration = -1
+}
+add_country_modifier = {
+	name = oir_captured_mng_emperor
+	duration = -1
+}
+add_country_modifier = {
+	name = terrified_china
+	duration = -1
+}
+add_country_modifier = {
+	name = breached_great_wall
+	duration = -1
+}
+
+# Years of saperasim
+add_country_modifier = {
+	name = imperial_ambition
+	duration = -1
+}
+add_country_modifier = {
+	name = rise_of_the_ayyubids
+	duration = -1
+}
+
+# Naval Leader manuever
+add_country_modifier = {
+	name = britanna_rules_the_waves
+	duration = -1
+}
+
+# Leaders withought upkeep
+add_country_modifier = {
+	name = dhimmi_nobles
+	duration = -1
+}
+
+# Movement speed
+add_country_modifier = {
+	name = bargi_giri
+	duration = -1
+}
+add_country_modifier = {
+	name = mor_conquest_of_kanem
+	duration = -1
+}
+add_country_modifier = {
+	name = conquest_of_air
+	duration = -1
+}
+add_country_modifier = {
+	name = army_drill_modifier
+	duration = -1
+}
+
+add_country_modifier = {
+	name = raiding_parties_modifier
+	duration = -1
+}
+
+# Envoy travel time
+add_ruler_modifier = {
+	name = emissary_authority
+}
+add_ruler_modifier = {
+	name = por_brazil_colonial
+}
+add_ruler_modifier = {
+	name = adventuring_merchants
+}
+
+# Spy
+add_ruler_modifier = {
+	name = ninjas
+}
+add_ruler_modifier = {
+	name = foreign_guild_infiltrated
+}
+add_ruler_modifier = {
+	name = recruited_smugglers
+}
+
+add_ruler_modifier = {
+	name = political_recusancy
+}
+add_ruler_modifier = {
+	name = company_interference
+}
+add_ruler_modifier = {
+	name = spy
+}
+add_ruler_modifier = {
+	name = enhanced_spies
+}
+add_ruler_modifier = {
+	name = emergency_plan
+}
+add_ruler_modifier = {
+	name = counter_espionage
+}
+add_ruler_modifier = {
+	name = spies_investigate
+}
+add_ruler_modifier = {
+	name = investigating_spies
+}
+add_ruler_modifier = {
+	name = shady_people
+}
+add_ruler_modifier = {
+	name = jap_gossip_spies
+}
+add_ruler_modifier = {
+	name = loyal_unbelievers
+}
+add_ruler_modifier = {
+	name = blackmailing_cardinal
+}
+add_ruler_modifier = {
+	name = strengthened_shinobi
+}
+add_ruler_modifier = {
+	name = better_rebel_support
+}
+
+# Province war score
+add_ruler_modifier = {
+	name = mongol_european_conquest
+}
+add_ruler_modifier = {
+	name = bng_orissa_conquest
+}
+
+# Years of saperasim
+add_ruler_modifier = {
+	name = imperial_ambition
+}
+add_ruler_modifier = {
+	name = rise_of_the_ayyubids
+}
+
+# Missionaries
+add_ruler_modifier = {
+	name = hab_melchior_klesl
+}
+add_ruler_modifier = {
+	name = guru_granth_sahib_spread
+}
+add_ruler_modifier = {
+	name = wahabism_modifier
+}
+add_ruler_modifier = {
+	name = portuguese_missionaries
+}

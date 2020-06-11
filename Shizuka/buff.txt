@@ -1,0 +1,440 @@
+# Siege ability
+add_ruler_modifier = {
+	name = offensive_modifier
+		}
+add_ruler_modifier = {
+	name = inside_man
+}
+add_ruler_modifier = {
+	name = the_beating_of_the_drums
+}
+add_ruler_modifier = {
+	name = oir_captured_mng_emperor
+}
+add_ruler_modifier = {
+	name = terrified_china
+}
+add_ruler_modifier = {
+	name = breached_great_wall
+}
+
+# Heir chance
+add_ruler_modifier = {
+	name = extra_heir
+}
+add_ruler_modifier = {
+	name = eth_mount_geshen
+}
+add_ruler_modifier = {
+	name = eng_rb_promulgation
+}
+
+# Inflation
+# add_ruler_modifier = {
+# 	name = national_bank_inflation
+# }
+# add_ruler_modifier = {
+# 	name = master_of_mint_boost
+# }
+add_ruler_modifier = {
+	name = hol_strict_control
+}
+add_ruler_modifier = {
+	name = strong_treasury
+}
+# add_ruler_modifier = {
+# 	name = taula_de_canvi
+# }
+
+# Improve relation
+add_ruler_modifier = {
+	name = competent_diplomacy
+}
+add_ruler_modifier = {
+	name = beloved_diplomats
+}
+add_ruler_modifier = {
+	name = eng_rb_hre_relations
+}
+add_ruler_modifier = {
+	name = order_of_the_dragon_restored
+}
+add_ruler_modifier = {
+	name = spanish_imperial_ambition
+}
+add_ruler_modifier = {
+	name = curtailed_privateer
+}
+add_ruler_modifier = {
+	name = gen_hre_diplomacy_mod
+}
+# gra_seperation_of_power
+
+# Spy
+add_ruler_modifier = {
+	name = ninjas
+}
+add_ruler_modifier = {
+	name = foreign_guild_infiltrated
+}
+add_ruler_modifier = {
+	name = recruited_smugglers
+}
+
+add_ruler_modifier = {
+	name = political_recusancy
+}
+add_ruler_modifier = {
+	name = company_interference
+}
+add_ruler_modifier = {
+	name = spy
+}
+add_ruler_modifier = {
+	name = enhanced_spies
+}
+add_ruler_modifier = {
+	name = emergency_plan
+}
+add_ruler_modifier = {
+	name = counter_espionage
+}
+add_ruler_modifier = {
+	name = spies_investigate
+}
+add_ruler_modifier = {
+	name = investigating_spies
+}
+add_ruler_modifier = {
+	name = shady_people
+}
+add_ruler_modifier = {
+	name = jap_gossip_spies
+}
+add_ruler_modifier = {
+	name = loyal_unbelievers
+}
+add_ruler_modifier = {
+	name = blackmailing_cardinal
+}
+add_ruler_modifier = {
+	name = strengthened_shinobi
+}
+add_ruler_modifier = {
+	name = better_rebel_support
+}
+
+# Leaders withought upkeep
+add_ruler_modifier = {
+	name = dhimmi_nobles
+}
+
+# Core creation
+# add_ruler_modifier = {
+# 	name = tengri_confucian_administrators
+# }
+add_ruler_modifier = {
+	name = byzantine_unification_of_italy
+}
+add_ruler_modifier = {
+	name = adu_greater_than_alexander
+}
+add_ruler_modifier = {
+	name = tim_heartland_reconquest
+}
+
+# Administration efficiency
+add_ruler_modifier = {
+	name = rus_reactionary_zeal
+}
+add_ruler_modifier = {
+	name = mug_viceroyalty_of_the_deccan
+}
+add_ruler_modifier = {
+	name = fall_of_china
+}
+
+# Native
+add_ruler_modifier = {
+	name = adu_native_concord
+}
+add_ruler_modifier = {
+	name = eng_caribbean_trade
+}
+add_ruler_modifier = {
+	name = new_world_missions
+}
+
+# Advisor
+add_ruler_modifier = {
+	name = good_advise
+}
+add_ruler_modifier = {
+	name = pru_sanssouci_palace
+}
+add_ruler_modifier = {
+	name = elaborate_court_ceremonies
+}
+
+# Colonist
+add_ruler_modifier = {
+	name = expand_colonial_territory
+}
+add_ruler_modifier = {
+	name = colonial_enthusiasm
+}
+add_ruler_modifier = {
+	name = colonial
+}
+add_ruler_modifier = {
+	name = cossack_settlers
+}
+add_ruler_modifier = {
+	name = the_unknown_frontier
+}
+add_ruler_modifier = {
+	name = eng_rb_colony_chance
+}
+add_ruler_modifier = {
+	name = the_darien_scheme
+}
+add_ruler_modifier = {
+	name = irish_new_world
+}
+add_ruler_modifier = {
+	name = protestant_refugees_to_the_colonies
+}
+add_ruler_modifier = {
+	name = governor_de_sousa
+}
+add_ruler_modifier = {
+	name = sce_new_domains
+}
+add_ruler_modifier = {
+	name = new_world_company
+}
+add_ruler_modifier = {
+	name = sea_route_to_india
+}
+add_ruler_modifier = {
+	name = puritan_colonists
+}
+add_ruler_modifier = {
+	name = adu_new_world_discoveries
+}
+add_ruler_modifier = {
+	name = eng_australian_colony
+}
+add_ruler_modifier = {
+	name = the_darien_scheme
+}
+add_ruler_modifier = {
+	name = spa_hispaniola_discovered
+}
+add_ruler_modifier = {
+	name = fra_to_india
+}
+add_ruler_modifier = {
+	name = mor_colonized_brazil
+}
+
+# Envoy travel time
+add_ruler_modifier = {
+	name = emissary_authority
+}
+add_ruler_modifier = {
+	name = por_brazil_colonial
+}
+add_ruler_modifier = {
+	name = adventuring_merchants
+}
+
+# Claim
+add_ruler_modifier = {
+	name = wih_aphra_behn
+}
+add_ruler_modifier = {
+	name = rajput_claims_modifier
+}
+
+# AE
+add_ruler_modifier = {
+	name = just_causes
+}
+add_ruler_modifier = {
+	name = india_expanded_harem
+}
+
+# Years of saperasim
+add_ruler_modifier = {
+	name = imperial_ambition
+}
+add_ruler_modifier = {
+	name = rise_of_the_ayyubids
+}
+
+# Reinfocement speed
+add_ruler_modifier = {
+	name = quartermaster_boost
+}
+add_ruler_modifier = {
+	name = to_the_colours
+}
+
+# Diplomatic relations
+add_ruler_modifier = {
+	name = diplomatic_moves
+}
+add_ruler_modifier = {
+	name = skilled_diplomat
+}
+add_ruler_modifier = {
+	name = noble_minister
+}
+add_ruler_modifier = {
+	name = nov_grand_duchy_finland
+}
+add_ruler_modifier = {
+	name = broke_the_rus
+}
+add_ruler_modifier = {
+	name = JAP_sankin_kotai_modifier
+}
+add_ruler_modifier = {
+	name = hol_de_witt
+}
+add_ruler_modifier = {
+	name = ara_envoy_to_ethiopia
+}
+add_ruler_modifier = {
+	name = loyal_subjects
+}
+add_ruler_modifier = {
+	name = obedient_subjects
+}
+add_ruler_modifier = {
+	name = greater_commonwealth
+}
+
+# Naval Leader manuever
+add_ruler_modifier = {
+	name = britanna_rules_the_waves
+}
+
+# Embargo
+add_ruler_modifier = {
+	name = gra_merchants_inspired
+}
+add_ruler_modifier = {
+	name = hire_privateers
+}
+
+# Morale & discipline
+# add_ruler_modifier = {
+# 	name = morale_boost
+# }
+add_ruler_modifier = {
+	name = back_to_the_front
+}
+# add_ruler_modifier = {
+# 	name = ned_lowlands_victory
+# }
+# add_ruler_modifier = {
+# 	name = oma_buildforces_mod
+# }
+add_ruler_modifier = {
+	name = teutons_pacified
+}
+add_ruler_modifier = {
+	name = kor_manchurian_expedition
+}
+add_ruler_modifier = {
+	name = quality_modifier
+}
+add_ruler_modifier = {
+	name = pirate_the_pirate_code
+}
+
+# Attrition
+add_ruler_modifier = {
+	name = regimental_spirit
+}
+add_ruler_modifier = {
+	name = tim_mountain_reconquest
+}
+add_ruler_modifier = {
+	name = dlh_orissa_conquest_modifier
+}
+add_ruler_modifier = {
+	name = mer_tribal_recruitment
+}
+add_ruler_modifier = {
+	name = mlw_well_fed
+}
+
+# Province war score
+add_ruler_modifier = {
+	name = mongol_european_conquest
+}
+add_ruler_modifier = {
+	name = bng_orissa_conquest
+}
+
+# Specials
+add_ruler_modifier = {
+	name = emperor
+}
+
+# Absolutism
+add_ruler_modifier = {
+	name = crushed_local_authority
+}
+add_ruler_modifier = {
+	name = central_authority_asserted
+}
+add_ruler_modifier = {
+	name = the_absolutism
+}
+add_ruler_modifier = {
+	name = JAP_social_hierarchy
+}
+
+# Corruption
+add_ruler_modifier = {
+	name = true_republican_virtues_modifier
+}
+add_ruler_modifier = {
+	name = secretive_new_cipher
+}
+add_ruler_modifier = {
+	name = honorable_company
+}
+add_ruler_modifier = {
+	name = cooperation_with_merchant_class
+}
+add_ruler_modifier = {
+	name = successful_bureaucracy
+}
+add_ruler_modifier = {
+	name = centralised_state
+}
+add_ruler_modifier = {
+	name = koprulu_family
+}
+add_ruler_modifier = {
+	name = fair_laws
+}
+
+# Missionaries
+add_ruler_modifier = {
+	name = hab_melchior_klesl
+}
+add_ruler_modifier = {
+	name = guru_granth_sahib_spread
+}
+add_ruler_modifier = {
+	name = wahabism_modifier
+}
+add_ruler_modifier = {
+	name = portuguese_missionaries
+}
