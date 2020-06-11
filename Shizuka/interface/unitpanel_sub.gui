@@ -155,6 +155,12 @@ guiTypes = {
 			Orientation = "UPPER_LEFT"
 		}
 		iconType = {
+			name ="band_regiment_marines"
+			spriteType = "GFX_band_regiment_marines"
+			position = { x= -33 y = -3 }
+			Orientation = "UPPER_LEFT"
+		}
+		iconType = {
 			name ="band_regiment_cossacks"
 			spriteType = "GFX_band_regiment_cossacks"
 			position = { x= -33 y = -3 }
@@ -167,8 +173,20 @@ guiTypes = {
 			Orientation = "UPPER_LEFT"
 		}
 		iconType = {
+			name ="band_regiment_mercenary_company"
+			spriteType = "GFX_band_regiment_mercenary"
+			position = { x= -33 y = -3 }
+			Orientation = "UPPER_LEFT"
+		}
+		iconType = {
 			name ="band_regiment_janissaries"
 			spriteType = "GFX_band_regiment_janissary"
+			position = { x= -33 y = -3 }
+			Orientation = "UPPER_LEFT"
+		}
+		iconType = {
+			name ="band_regiment_revolutionary_guard"
+			spriteType = "GFX_band_regiment_revolutionary_guard"
 			position = { x= -33 y = -3 }
 			Orientation = "UPPER_LEFT"
 		}
@@ -516,7 +534,7 @@ guiTypes = {
 		name = "leader_entry"
 		backGround=""
 		position = { x=0 y=0 }	
-		size = { x=360 y= 52 }
+		size = { x=260 y= 52 }
 		moveable = 0
 		dontRender = ""
 		horizontalBorder= ""
@@ -561,6 +579,15 @@ guiTypes = {
 			scale = 0.4
 		}
 
+		iconType =
+		{
+			name ="leader_drill"
+			spriteType = "GFX_army_drill"
+			position = { x= -32 y = 0 }
+			Orientation = "UPPER_RIGHT"
+			scale = 0.6
+		}
+
 		instantTextBoxType = {
 				name = "leader_name"
 				position = { x = -3 y = 6 }
@@ -568,7 +595,7 @@ guiTypes = {
 				font = "vic_18"
 				borderSize = {x = 4 y = 4}
 				text = ""	
-				maxWidth = 250
+				maxWidth = 235
 				maxHeight = 10	
 				Orientation = "UPPER_LEFT"
 				fixedsize = yes
